@@ -16,6 +16,8 @@ fixtures, fail-closed evaluation, and CI verification.
 - 4/4 verification gates
 - No credentials or paid APIs required
 
+[View the repository](https://github.com/ZephBuilds/enterprise-rag-agent)
+
 ### Bao Agent Demo
 
 A read-only message-processing agent that converts untrusted fictional chat
