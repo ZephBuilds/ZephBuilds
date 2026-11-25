@@ -24,9 +24,22 @@ A read-only message-processing agent that converts untrusted fictional chat
 messages into validated tasks while emitting sanitized latency, retry, token,
 cost, and error telemetry.
 
-- 33 passing tests
+- 34 passing tests
 - Deterministic offline baseline
 - Prompt-injection and provider-failure coverage
+
+[View the repository](https://github.com/ZephBuilds/bao-agent-demo)
+
+### Engineering Portfolio
+
+A dependency-free portfolio that connects each engineering claim to executable
+evidence, versioned metrics, local verification, and green CI.
+
+- 86 passing project tests represented
+- 72 portfolio contract tests
+- Live on GitHub Pages
+
+[View the portfolio](https://zephbuilds.github.io/)
 
 ## Focus
 
@@ -35,5 +48,5 @@ cost, and error telemetry.
 - Guardrails and trust boundaries
 - Observability, automation, and CI
 
-I am preparing these projects for public review and looking for practical AI
-systems work.
+I am looking for practical AI systems work where reliability, evaluation, and
+clear engineering evidence matter.
